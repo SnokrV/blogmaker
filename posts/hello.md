@@ -1,10 +1,3 @@
-#[category]: <> (General)
-#[date]: <> (2020/10/24)
-#[title]: <> (Hello world)
-
-
-
-
 <!DOCTYPE html>
 <html>
 <meta charset="UTF-8">
